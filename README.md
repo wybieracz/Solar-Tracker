@@ -33,6 +33,8 @@ The aim of the project was to design and build a model of a mobile platform for 
 ![DSC_1473](/photos/DSC_1473.JPG)
 ![DSC_1474](/photos/DSC_1474.JPG)
 ![DSC_1475](/photos/DSC_1475.JPG)
+## Video
+* https://youtu.be/d5iRpRQZef4
 ## Links
 * https://docs.arduino.cc/hardware/nano
 * https://www.arduino.cc/reference/en/
